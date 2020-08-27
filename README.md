@@ -1,2 +1,3 @@
 # hello-world1
-Hello World GitHub Tutorial
+
+My name is Jacob Hays. I'm doing this GitHub tutorial.
